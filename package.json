@@ -1,0 +1,27 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Rsa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chai-http": "^4.2.0",
+    "@types/express": "^4.17.1",
+    "bigint-crypto-utils": "^2.2.1",
+    "chai-http": "^4.3.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.2.2",
+    "@types/mocha": "^5.2.7",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "ts-node": "^8.3.0",
+    "typings": "^2.1.1"
+  }
+}
